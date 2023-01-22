@@ -1,6 +1,6 @@
 import './sass/style.scss';
 import { Notify } from 'notiflix';
-const axios = require('axios').default;
+import axios from 'axios'; 
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
